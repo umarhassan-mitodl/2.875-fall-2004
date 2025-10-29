@@ -5,8 +5,6 @@ description: This resource provides the information about the planning process f
 file: /courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/dd768b21f5003f723bfae1bfdce0f16f_systematc_proces.pdf
 file_size: 21580
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

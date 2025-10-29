@@ -2,8 +2,6 @@
 content_type: page
 description: The project section gives the information about the guidelines for project,
   systematic process, and project deliverables.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
